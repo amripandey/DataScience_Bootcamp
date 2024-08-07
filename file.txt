@@ -1,3 +1,0 @@
-Bullet chess is a wild terrain where the laws of physics change. 
-Normal chess principles don’t always apply, and speed and time management reign supreme. 
-Since the Bullet Chess Championship is a 1+0 event, I considered only 1+0 games—many of these players are also heavy 10-second and 30-second hyperbullet players, where they have different stats.
