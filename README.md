@@ -10,5 +10,5 @@
 5. [Datascience project titanic](/codes/titanic.ipynb)
 
 # Current Status
-- This repo is still in working.
-- If you think there is any wrong practice please commit a issue.
+- This repo is still not complete.
+- If you think there is any wrong practice or error, please commit a issue.
